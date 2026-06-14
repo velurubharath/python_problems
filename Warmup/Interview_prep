@@ -1,0 +1,33 @@
+Top Python Interview Questions for Senior DevOps Roles
+Difference between list and tuple?
+Difference between multithreading and multiprocessing?
+What is GIL?
+Difference between deepcopy() and copy()?
+What are generators?
+What are decorators?
+Difference between append() and extend()?
+What is *args and **kwargs?
+Difference between is and ==?
+Explain exception hierarchy.
+How do you call Linux commands from Python?
+How do you interact with AWS using Python?
+How do you process large log files efficiently?
+How do generators reduce memory consumption?
+How would you write a health-check script for 100 servers?
+
+For the interviews you're preparing for (Google, EPAM, ThoughtWorks, JPMorgan Chase), I'd focus especially on:
+
+subprocess
+requests
+json
+boto3
+File handling
+Logging
+Exception handling
+Multithreading
+Generators
+Classes/OOP
+Linux automation scripts
+API integrations
+
+These account for most Python questions asked in senior DevOps/SRE interviews.
